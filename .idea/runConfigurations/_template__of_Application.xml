@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="Application" factoryName="Application">
+    <envs>
+      <env name="EMAIL_USERNAME" value="ilyashalmamedov@gmail.com" />
+      <env name="EMAIL_PASSWORD" value="zmxl aest rdcr ystk " />
+    </envs>
+    <module name="project4" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
